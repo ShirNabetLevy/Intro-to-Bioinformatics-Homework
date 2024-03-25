@@ -5,6 +5,7 @@ Intro to Bioinformatics, Programming Language: R (in R Studio)
 
 Statistics and Sequence Alignment to analyze real COVID-19 world data.
 Using Chi-squared test, Shapiro test, Wilcoxon rank-sum, pearson and spearman Correlation and  Sequence Alignment Inveatigation.
+
 **grade: 96**
 
 **HW2**
